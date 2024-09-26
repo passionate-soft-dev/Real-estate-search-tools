@@ -2,6 +2,15 @@
 
 This project is a **Real Estate Search Tool** developed to perform multi-search operations using data from **Bazarki**. It features a robust frontend and backend architecture to provide a fast, efficient, and user-friendly experience for users searching real estate listings.
 
+![React](https://img.shields.io/badge/React-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
 ## Project Overview
 
 - **Frontend**: Built with **React** and **Redux** for state management, styled with **CSS** and **HTML**. Interactive data visualization is powered by **Chart.js**.
@@ -36,7 +45,8 @@ This project is a **Real Estate Search Tool** developed to perform multi-search 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-estate-search-tool.git
+   git clone https://github.com/passionate-soft-dev/Real-estate-search-tools.git
+   cd Real-estate-search-tools
 
 2. Install dependencies for the frontend:
    ```bash
