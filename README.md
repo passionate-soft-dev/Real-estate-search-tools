@@ -47,12 +47,14 @@ This project is a **Real Estate Search Tool** developed to perform multi-search 
    ```bash
    git clone https://github.com/passionate-soft-dev/Real-estate-search-tools.git
    cd Real-estate-search-tools
+   ```
 
 2. Install dependencies for the frontend:
    ```bash
    cd frontend
    npm install
-
+   ```
+   
 3. Install dependencies for the backend:
    ```bash
    cd backend
